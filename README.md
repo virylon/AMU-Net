@@ -5,4 +5,4 @@
 * data.ipynb -- code for producing dataset from images
 * dataset.py -- code for loading dataset samples in Pytorch
 
-Connect E-mail (virylon@qq.com) for pre-trained model and code. 
+Contact E-mail (virylon@qq.com) to obtain pre-trained model and code. 
